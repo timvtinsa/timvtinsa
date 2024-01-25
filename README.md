@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a french DevOps & Cloud engineer at AViSTO in Lyon
+- 👋 Hi, I’m a french DevOps & Cloud engineer working for AViSTO in Lyon
 - 🌱 I’m interested in Release Engineering, Technical Architecture and Cybersecurity.
 - 📫 How to reach me  : 
    - Linkedin : https://www.linkedin.com/in/timoth%C3%A9-verstraete-8b709417a
